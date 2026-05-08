@@ -431,12 +431,3 @@ echo "Generated: $OPENSSL_OUT"
 ```
 
 ***
-
-If you want, next I can:
-
-*   ✅ Convert this into **KT documentation**
-*   ✅ Draw a **visual flowchart (ASCII or diagram-ready)**
-*   ✅ Optimize for **large DNS lists**
-*   ✅ Convert to **bash‑compatible version**
-
-Just tell me 👍
