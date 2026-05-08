@@ -1,5 +1,13 @@
-# Certificate_Validation_Script
 
+### 🌐🔐 Project Overview
+
+🔍 **This project automates DNS‑to‑VIP resolution and SSL certificate validation, including SAN (Subject Alternative Name), Default, and SNI certificates.**  
+ 📄 It generates **clean, structured reports** with DNS mappings, certificate CNs, issuer details, and validity dates to support **production monitoring, audits, and troubleshooting**.
+
+**🚀 Automated DNS & VIP Analysis with SAN Certificate Validation**  
+**🔐 Extracts SAN / Default / SNI SSL certificate details for reliable monitoring and compliance.**
+
+# Certificate_Validation_Script
 
 1.  **Overall program logic (theory / intent)**
 2.  **High‑level flow chart (textual)**
